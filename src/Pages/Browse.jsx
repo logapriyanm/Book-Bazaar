@@ -1,7 +1,7 @@
 import React, {useMemo, useState, useEffect} from 'react'
 import Filters from '../Components/Filters'
 import BookCard from '../Components/BookCard'
-import { loadInitialBooks } from '../data/books.js'
+import { loadInitialBooks } from '../Data/books.js'
 import { FaSearch } from "react-icons/fa";
 
 export default function Browse(){
