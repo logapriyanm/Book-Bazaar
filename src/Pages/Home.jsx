@@ -1,5 +1,5 @@
 
-import Hero from '../components/Hero'
+import Hero from '../Components/Hero.jsx'
 import Features from '../Components/Features'
 import Stats from '../Components/Stats'
 
